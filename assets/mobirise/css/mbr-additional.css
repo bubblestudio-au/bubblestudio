@@ -1318,6 +1318,9 @@ a {
   right: 50%;
   transition: all .2s;
 }
+.cid-se3MVcevFk .navbar-dropdown {
+  position: fixed;
+}
 .cid-se3MVcevFk a.nav-link {
   position: relative;
   display: flex;
